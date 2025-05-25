@@ -1,4 +1,4 @@
-Uçuş Rezervasyon Sistemi (Java)
+Uçuş Rezervasyon Sistemi
 Bu proje, Java kullanarak geliştirilmiş temel bir konsol tabanlı uçuş rezervasyon sistemidir. Nesne Yönelimli Programlama (OOP) prensiplerini uygulamalı olarak göstermektedir.
 
 Özellikler
